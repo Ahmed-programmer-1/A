@@ -36,5 +36,14 @@ registerCourse("AAA1_S2", {
     "releaseDate": [],
     "grade": ""
   },
-  "videos": []
+  "videos": [
+    {
+      "num": 1,
+      "title": "الحلقة 1",
+      "link": "https://vibuxer.com/stream/HAj_o_WhbG3B4J4FkpD5CA/kjhhiuahiuhgihdf/1791102016/73582351/master.m3u8",
+      "description": "",
+      "disabled": false,
+      "disabledMessage": ""
+    }
+  ]
 });
